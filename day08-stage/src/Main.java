@@ -10,7 +10,7 @@ public class Main {
         Option(list);
     }
     public static void Info() {
-        System.out.println("——————————欢迎来到黑马学生管理系统——————————");
+        System.out.println("——————————欢迎来到学生管理系统——————————");
         System.out.println("|-----1.添加学生------------------------|");
         System.out.println("|-----2.删除学生------------------------|");
         System.out.println("|-----3.修改学生------------------------|");
