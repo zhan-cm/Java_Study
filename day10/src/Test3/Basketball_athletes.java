@@ -10,6 +10,6 @@ public class Basketball_athletes extends Athletes{
 
     @Override
     public void learn() {
-        System.out.println("篮球运动员在学习打篮球");
+        System.out.println("篮球运动员在学习打篮球已经两年半了");
     }
 }
